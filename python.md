@@ -4,13 +4,6 @@
 최종수정일: 2022년 7월 8일 오전 9:39
 
 
-layout: post
-title: "python"
-subtitle: 
-date: 2020-03-08 09:39
-background: 
-tag: [Tips, Github io, Notion]
-
 
 ### anaconda
 
